@@ -34,10 +34,10 @@ Adjust RAM settings for performance.
 Launch the game with a custom profile.
 
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the GNU GENERAL License - see the LICENSE.md file for details.
 
 Contributors
-Your Name
+In instagram- @davidhackstallman
 
 Minecraft Launcher - Código Abierto
 Este es un lanzador de Minecraft de código abierto diseñado para gestionar fácilmente las versiones de Minecraft, la instalación de Forge/Fabric y los perfiles personalizados. Este proyecto está construido para ser ligero y fácil de usar, sin software innecesario.
@@ -72,13 +72,13 @@ Ajusta la configuración de RAM para un mejor rendimiento.
 Lanza el juego con un perfil personalizado.
 
 Licencia
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE.md para más detalles.
+Este proyecto está licenciado bajo la Licencia GNU GENERAL - consulta el archivo LICENSE.md para más detalles.
 
 Contribuyentes
-en instagram @david
+En instagram- @davidhackstallman
 
 Minecraft Launcher - Open Source
-Este es un lanzador de Minecraft de código abierto diseñado para gestionar fácilmente las versiones de Minecraft, la instalación de Forge/Fabric y los perfiles personalizados. Este proyecto está construido para ser ligero y fácil de usar, sin software innecesario.
+Dies ist ein Open-Source-Minecraft-Launcher, der entwickelt wurde, um Minecraft-Versionen, die Installation von Forge/Fabric und benutzerdefinierte Profile einfach zu verwalten. Das Projekt ist leichtgewichtig und einfach zu bedienen – ohne unnötige Software.
 
 Funktionen
 Installiere Minecraft-Versionen (Vanilla, Forge und Fabric).
@@ -113,5 +113,5 @@ Lizenz
 Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die LICENSE.md-Datei für Details.
 
 Mitwirkende
-Dein Name
+In instagram- @davidhackstallman
 
