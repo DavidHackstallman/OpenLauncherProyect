@@ -1,7 +1,8 @@
 # OpenLauncherProyect
 Minecraft no premium launcher(so lazzy to login in microsoft services), only for educational and research purpouses
 Bassed in KeimaSenpai proyect, Xlauncher, link:https://github.com/KeimaSenpai/XLauncher-Script/tree/main
-Minecraft Launcher - Open Source
+
+OpenLauncherProyect - Open Source
 This is an open-source Minecraft Launcher designed to easily manage Minecraft versions, Forge/Fabric installation, and custom profiles. This project is built to be lightweight and simple to use, with no additional bloatware.
 
 Features
@@ -39,7 +40,7 @@ This project is licensed under the GNU GENERAL License - see the LICENSE.md file
 Contributors
 In instagram- @davidhackstallman
 
-Minecraft Launcher - Código Abierto
+OpenLauncherProyect - Código Abierto
 Este es un lanzador de Minecraft de código abierto diseñado para gestionar fácilmente las versiones de Minecraft, la instalación de Forge/Fabric y los perfiles personalizados. Este proyecto está construido para ser ligero y fácil de usar, sin software innecesario.
 
 Características
@@ -77,7 +78,7 @@ Este proyecto está licenciado bajo la Licencia GNU GENERAL - consulta el archiv
 Contribuyentes
 En instagram- @davidhackstallman
 
-Minecraft Launcher - Open Source
+OpenLauncherProyect - Open Source
 Dies ist ein Open-Source-Minecraft-Launcher, der entwickelt wurde, um Minecraft-Versionen, die Installation von Forge/Fabric und benutzerdefinierte Profile einfach zu verwalten. Das Projekt ist leichtgewichtig und einfach zu bedienen – ohne unnötige Software.
 
 Funktionen
